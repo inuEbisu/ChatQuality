@@ -1,0 +1,9 @@
+name: ChatQuality
+version: 1.0.1
+main: com.github.tutity.chatquality.ChatQuality
+softdepend: [PlaceholderAPI]
+commands:
+  ChatQuality:
+    description: ChatQuality
+    usage: /ChatQuality
+    aliases: [dia,cq]
